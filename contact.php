@@ -41,7 +41,8 @@
 
 
 
-    $to = "quric979797@gmail.com"; // this is your Email address
+    // $to = "quric979797@gmail.com"; // this is your Email address
+    $to = "cjadhav132@gmail.com"; // this is your Email address
     $from = $_POST['email']; // this is the sender's Email address
     $name = $_POST['name'];
     $move_from = $_POST['from'];
