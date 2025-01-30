@@ -244,8 +244,8 @@ section {
 	color: #fff;
 }
 #header .logo img {
-	max-height: 70px;
-	width: 230px;
+	max-height: 100px;
+	width: 335px;
 }
 
 /*--------------------------------------------------------------
@@ -2145,7 +2145,7 @@ section {
 	margin-bottom: 15px;
 }
 .footer .footer-top .footer-info .logo img {
-	max-height: 40px;
+	max-height: 75px;
 	margin-right: 6px;
 }
 .footer .footer-top .footer-info .logo span {
@@ -2677,9 +2677,9 @@ element.style {
 	font-size: 30px;
 }
 
-.ft-service-section {
-	background-color: #dadaca;
-}
+/* .ft-service-section{
+  background-color: #dadaca;
+} */
 
 /* swiper slider css */
 swiper-container {
